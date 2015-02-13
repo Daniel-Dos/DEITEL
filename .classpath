@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Capitulo 2 Introducao_aos_aplicativos_Java"/>
+	<classpathentry kind="src" path="Capitulo 3 Introdução a Classes e Objetos"/>
+	<classpathentry kind="src" path="Capitulo 4 Instruções de Controle_parte 1"/>
+	<classpathentry kind="src" path="Capitulo 5 Instruções de Controle_parte 2"/>
+	<classpathentry kind="src" path="Capitulo 6 Métodos_Uma visão mais aprofundada"/>
+	<classpathentry kind="src" path="Capitulo 7 Array e ArrayLists"/>
+	<classpathentry kind="src" path="Capitulo 8 Classes e Objetos_Umava visão mais aprofundada"/>
+	<classpathentry kind="src" path="Capitulo 9 Programação Orientada a Objetos_Herança"/>
+	<classpathentry excluding="Capitulo 10 Programação Orientada a Objetos_Polimorfismo/" kind="src" path="Capitulo 10 Programação Orientada a Objetos_Polimorfismo"/>
+	<classpathentry kind="src" path="Capitulo 11 Tratamento de Exceções"/>
+	<classpathentry kind="src" path="Capitulo 12 Estudo de Caso de ATM,Parte 1_Projeto Orientado a Objetos com UML"/>
+	<classpathentry kind="src" path="Capitulo 13 Estudo de Caso de ATM, Parte 2_Implementando um Projeto Orientado a Objetos"/>
+	<classpathentry kind="src" path="Capitulo 14 Componentes GUI_Parte 1"/>
+	<classpathentry kind="src" path="Capitulo 15 Imagens Graficas e Java 2D"/>
+	<classpathentry kind="src" path="Capitulo 16 Strings, Caracteres e Expressões Regulares"/>
+	<classpathentry kind="src" path="Capitulo 17 Arquivos, Fluxos e Serialização de Objetos"/>
+	<classpathentry kind="src" path="Capitulo 18 Recursão"/>
+	<classpathentry kind="src" path="Capitulo 19 Pesquisa, Classificação e  Big O"/>
+	<classpathentry kind="src" path="Capitulo 20 Coleções Genéricas"/>
+	<classpathentry kind="src" path="Capitulo 21 Classes e Métodos Genéricos"/>
+	<classpathentry kind="src" path="Capitulo 22 Estruturas de Dados Genéricas Personalizadas"/>
+	<classpathentry kind="src" path="Capitulo 23 Applets e Java Web Start"/>
+	<classpathentry kind="src" path="Capitulo 24 Multimídia_ Applets e Aplicativos"/>
+	<classpathentry kind="src" path="Capitulo 25 Componentes GUI_Parte 2"/>
+	<classpathentry kind="src" path="Capitulo 26 MultiThreading"/>
+	<classpathentry kind="src" path="Capitulo 27 Redes"/>
+	<classpathentry kind="src" path="Capitulo 28 Acesso a Banco de Dados com o JDBC"/>
+	<classpathentry kind="src" path="Capitulo 29 Aplicativos Web JavaServer Faces"/>
+	<classpathentry kind="src" path="Capitulo 30 Aplicativos Web JavaServer Faces Compativeis com AJAX"/>
+	<classpathentry kind="src" path="capitulo 31 Serviços Web"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MySQL/MySQL Connector J/mysql-connector-java-5.1.26-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/JMF2.1.1e/lib/jmf.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
